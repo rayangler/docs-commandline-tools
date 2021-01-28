@@ -9,7 +9,7 @@ The MongoDB Database Tools Documentation
 .. strategies failed.
 
 The {+dbtools+} are a collection of command-line utilities for working
-with a MongoDB deployment. The {+dbtools-short+} include the following
+with a MongoDB deployment! The {+dbtools-short+} include the following
 binaries:
 
 .. list-table::
